@@ -236,9 +236,9 @@
                 "hanneskod/classtools": "^1.2",
                 "illuminate/contracts": "^8.0",
                 "illuminate/support": "^8.0",
-                "laminas/laminas-code": "^3.4",
+                "laminas/laminas-code": "^3.5.1",
                 "nikic/php-parser": "^4.10",
-                "php": "^7.3|^8.0"
+                "php": "^7.3|^8.1.7"
             },
             "require-dev": {
                 "doctrine/dbal": "^2.9|^3.0",
